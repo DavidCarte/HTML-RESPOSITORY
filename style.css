@@ -2,10 +2,25 @@ body {
     background: #1d2026;
 }
 
+div#menu{
+    color: white;
+    position: relative;
+    top: 10px;
+    right: 5px;
+}
+
+h2#CompanyName{
+    color: white;
+    position: relative;
+    right: 30px;
+}
+
 header{
     text-align: center;
     color: white;
     display: block;
+    position: relative;
+    bottom: 60px; 
 }
 
 
@@ -16,3 +31,4 @@ text{
 li{
     font-size: 20px;
 }
+
