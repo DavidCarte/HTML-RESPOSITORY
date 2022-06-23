@@ -60,16 +60,3 @@ div#titlee{
     color: white;
     text-align: center;
 }
-
-div#videogms{
-    color: white;
-    text-align: center;
-    position: relative;
-    top: 10px;
-}
-
-.vid{
-    background: black;
-    padding: 6px;
-    border: 9px outset #161b25;
-}
