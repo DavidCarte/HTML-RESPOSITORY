@@ -19,6 +19,11 @@ div#titlecars{
     text-align: center;
 }
 
+div#formcar{
+    color: white;
+    text-align: center;
+}
+
 h2#CompanyName{
     text-align: center;
     color: white;
