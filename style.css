@@ -2,25 +2,31 @@ body {
     background: #1d2026;
 }
 
+img#Logo{
+    position: relative;
+    top: 50px;
+}
+
 div#menu{
     color: white;
     position: relative;
-    top: 10px;
+    top: 65px;
     right: 5px;
 }
 
 h2#CompanyName{
-    color: white;
-    position: relative;
-    right: 30px;
-}
-
-header{
     text-align: center;
     color: white;
-    display: block;
     position: relative;
-    bottom: 60px; 
+    right: 35px;
+    bottom: 5px;
+}
+
+h4#PodTytul{
+    color: white;
+    text-align: center;
+    bottom: 0px;
+    position: relative;
 }
 
 
