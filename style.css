@@ -1,25 +1,18 @@
-body{
+body {
     background: #1d2026;
-    color: white;
-}
-
-h1{
-    color: white;
-}
-
-h3{
-    color: white;
-}
-
-div{
-    color: white;
 }
 
 header{
     text-align: center;
+    color: white;
+    display: block;
 }
 
-form{
-    text-align: center;
 
+text{
+    color: white;
+}
+
+li{
+    font-size: 20px;
 }
