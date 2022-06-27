@@ -9,10 +9,11 @@ img#Logo{
 }
 
 div#menu{
-    color: white;
+    text-decoration: none;
     position: relative;
     top: 65px;
     right: 5px;
+    color: white;
 }
 
 div#titlecars{
