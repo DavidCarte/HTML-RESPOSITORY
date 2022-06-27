@@ -4,7 +4,8 @@ body {
 
 img#Logo{
     position: relative;
-    top: 50px;
+    top: 200px;
+    right: 30px;
 }
 
 div#menu{
@@ -37,6 +38,7 @@ h4#PodTytul{
     text-align: center;
     bottom: 0px;
     position: relative;
+    right: 30px;
 }
 
 
@@ -53,12 +55,13 @@ b#Menu{
     position: relative;
     float: right;
     right: 40px;
-    top: 30px;
+    top: 200px;
 }
 
 div#titlee{
     color: white;
     text-align: center;
+    right: 5px;
 }
 
 div#videogms{
@@ -72,4 +75,9 @@ div#videogms{
     background: black;
     padding: 6px;
     border: 9px outset #161b25;
+}
+
+.imgmore{
+    position: relative;
+    top: 200px;
 }
